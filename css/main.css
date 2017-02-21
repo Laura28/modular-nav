@@ -20,3 +20,27 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  background-color: #e2e2e2;
+}
+
+header h1 {
+  color: #000;
+  display: block;
+}
+
+ul {
+  overflow: hidden;
+  list-style-type: none;
+}
+
+a {
+  color: #0074d9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #0074d9;
+}
